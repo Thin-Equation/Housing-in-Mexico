@@ -1,4 +1,4 @@
-# Housing in Mexico - Data Analysis & Prediction
+# Housing in Mexico and Brazil - Data Analysis & Prediction
 
 This project provides a comprehensive analysis of housing data in Mexico through a full-stack web application featuring a FastAPI backend and Next.js frontend. The application offers interactive data visualization dashboards and a machine learning model for price prediction.
 
